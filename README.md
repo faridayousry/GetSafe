@@ -1,13 +1,20 @@
 CSCE493001 - Selected Topics in CSCE (2021 Winter) 
+
 Mobile Applications Development
+
 Dr.Mohamed Shalan
  
+ 
 Initial Project Proposal 
+
 GetSafe®
 
 Farida T. Yousry	900171942
+
 Bassel Shabana	900162270
+
 Khalid  Mohamed	900153041
+
 Steven Roseik		900171807
 
 
