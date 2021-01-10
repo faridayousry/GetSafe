@@ -22,17 +22,17 @@ Our application aims to address the prevalence of harassment and assault through
 
 When Emergency button is pressed and released, the applications can perform a subset of the following actions based on the user’s preferences:
       
-      *Call the police/local authorities
+      -Call the police/local authorities
       
-      *Send the user's live location to the trusted contacts list, 
+      -Send the user's live location to the trusted contacts list, 
       
-      *Send a customised message to the trusted contacts list, 
+      -Send a customised message to the trusted contacts list, 
       
-      *Set off a loud 120 dB alarm to alert people nearby & scare the attacker(s), 
+      -Set off a loud 120 dB alarm to alert people nearby & scare the attacker(s), 
       
-      *Record audio/video footage.
+      -Record audio/video footage.
       
-All of the above can be switched on/off by the user.
+*All of the above can be switched on/off by the user.
 
 
 2. SYSTEM OVERVIEW
@@ -40,21 +40,28 @@ All of the above can be switched on/off by the user.
 2.1 Main Activities
 
   -Login Activity:
+  
       Users can enter their credentials to login into an existing account or create a new one.
       
   -User Information Activity:
+  
       Users can enter their personal information such as emergency contact information to be used in case of emergency.
       
   -Emergency Activity:
+  
       Where the user can deploy the emergency button which will trigger the list of services, such as calling the police. 
       
   -Settings Activity:
+  
       Will have a list of options through which the user can edit his/her profile, manage settings for emergency triggers(live location, records), and edit the list of trusted       emergency contacts.
       
   -HarassMap Activity:
+  
       Will provide hot spots on a map for where there happens to be a lot of harassment. This will be provided through the HarassMap service providing application.
 
+
 Service providers would be the Phone app for calling the police, Whatsapp for sending the user’s live locations to emergency contacts, Panik or Attack Alarm SMS  for the loud alarm siren, the Camera and Voice memo apps for recording, and HarassMap for the harassment hotspot mapping service.
+
 
 2.2 MVC Model
 
