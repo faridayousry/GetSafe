@@ -72,17 +72,21 @@ When Emergency button is pressed and released, the applications can perform a su
       
   -Settings Activity:
   
-      Will have a list of options through which the user can edit his/her profile, manage settings for emergency triggers(live location, records), and edit the list of trusted emergency contacts.
+      Will have a list of options through which the user can edit his/her profile, manage settings for emergency triggers(live location, recording), and edit the list of trusted emergency contacts.
       
   -HarassMap Activity:
   
       Will provide hot spots on a map for where there happens to be a lot of harassment. This will be provided through 
       the HarassMap service providing application.
 
-
+ 
+ <br/>
+ 
 Service providers would be the Phone app for calling the police, Whatsapp for sending the user’s live locations to emergency contacts, Panik or Attack Alarm SMS  for the loud alarm siren, the Camera and Voice memo apps for recording, and HarassMap for the harassment hotspot mapping service.
 
-
+ 
+ <br/>
+ 
 2.2 MVC Model
 
   Model:
@@ -106,3 +110,6 @@ Service providers would be the Phone app for calling the police, Whatsapp for se
     -Updating the user info 
     
     -Initiating any of the application features when the emergency button is released.
+    
+     
+ <br/>
