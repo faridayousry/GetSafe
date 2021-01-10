@@ -1,4 +1,4 @@
-CSCE493001 - Selected Topics in CSCE (2021 Winter) 
+CSCE4930 01 - Selected Topics in CSCE (2021 Winter) 
 
 Mobile Applications Development
 
@@ -30,14 +30,14 @@ Steven Roseik		900171807
 
 1.1 Design Rationale & Community Deployment
 
-Our application aims to address the prevalence of harassment and assault through providing means of protection and prevention for victims in order to limit the harm that affects them.The system acts as a personal bodyguard that the user can call on in threatening situations. The central feature of the app is a button that the user can press on while walking near dangerous individuals, and when released it automatically calls the police, sends the user’s live location to their emergency contact, along with other protective measures selected by the user beforehand.
+GetSafe aims to address the prevalence of harassment and assault through providing means of protection and prevention for victims in order to limit the harm that affects them.The system acts as a personal bodyguard that the user can call on in threatening situations. The central feature of the app is a button that the user can press on while walking near dangerous individuals, and when released it automatically calls the police, sends the user’s live location to their emergency contact, along with other protective measures selected by the user beforehand.
 
  
  <br/>
 
 1.2 Application Features
 
-When Emergency button is pressed and released, the applications can perform a subset of the following actions based on the user’s preferences:
+When the Emergency button is pressed and released, the applications can perform a subset of the following actions based on the user’s preferences:
       
       -Call the police/local authorities
       
