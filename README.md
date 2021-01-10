@@ -10,10 +10,10 @@ Dr.Mohamed Shalan <br/>
 Initial Project Proposal 
 
 
-  GetSafe®
-  
-
-
+  GetSafe® 
+ 
+ <br/>
+ 
 Farida T. Yousry	900171942
 
 Bassel Shabana	900162270
@@ -22,9 +22,8 @@ Khalid  Mohamed	900153041
 
 Steven Roseik		900171807
 
-
-
-
+ 
+ <br/>
 
 
 1. PROJECT OVERVIEW
@@ -32,6 +31,9 @@ Steven Roseik		900171807
 1.1 Design Rationale & Community Deployment
 
 Our application aims to address the prevalence of harassment and assault through providing means of protection and prevention for victims in order to limit the harm that affects them.The system acts as a personal bodyguard that the user can call on in threatening situations. The central feature of the app is a button that the user can press on while walking near dangerous individuals, and when released it automatically calls the police, sends the user’s live location to their emergency contact, along with other protective measures selected by the user beforehand.
+
+ 
+ <br/>
 
 1.2 Application Features
 
@@ -49,7 +51,8 @@ When Emergency button is pressed and released, the applications can perform a su
       
 *All of the above can be switched on/off by the user.
 
-
+ <br/>
+ 
  
 2. SYSTEM OVERVIEW
 
