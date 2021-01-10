@@ -3,8 +3,9 @@ CSCE493001 - Selected Topics in CSCE (2021 Winter)
 Mobile Applications Development
 
 Dr.Mohamed Shalan <br/>
+
  
- 
+ <br/>
  
 Initial Project Proposal 
 
