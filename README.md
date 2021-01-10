@@ -77,7 +77,7 @@ When the Emergency button is pressed and released, the applications can perform 
   -HarassMap Activity:
   
       Will provide hot spots on a map for where there happens to be a lot of harassment. This will be provided through 
-      the HarassMap service providing application.
+      the HarassMap website.
 
  
  <br/>
