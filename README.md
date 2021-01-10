@@ -32,7 +32,7 @@ When Emergency button is pressed and released, the applications can perform a su
       
       *Record audio/video footage.
       
-		**All of the above can be switched on/off by the user.
+		All of the above can be switched on/off by the user.
     
 2. SYSTEM OVERVIEW
 
