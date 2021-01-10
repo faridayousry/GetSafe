@@ -21,13 +21,18 @@ Our application aims to address the prevalence of harassment and assault through
 1.2 Application Features
 
 When Emergency button is pressed and released, the applications can perform a subset of the following actions based on the user’s preferences:
-      -Call the police/local authorities, 
-      -Send the user's live location to the trusted contacts list, 
-      -Send a customised message to the trusted contacts list, 
-      -Set off a loud 120 dB alarm to alert people nearby & scare the attacker(s), 
-      -Record audio/video footage.
       
-		*All of the above can be switched on/off by the user.
+      *Call the police/local authorities
+      
+      *Send the user's live location to the trusted contacts list, 
+      
+      *Send a customised message to the trusted contacts list, 
+      
+      *Set off a loud 120 dB alarm to alert people nearby & scare the attacker(s), 
+      
+      *Record audio/video footage.
+      
+		**All of the above can be switched on/off by the user.
     
 2. SYSTEM OVERVIEW
 
