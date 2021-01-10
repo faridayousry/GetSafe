@@ -14,16 +14,16 @@ Steven Roseik		900171807
 
 1. PROJECT OVERVIEW
 1.1 Design Rationale & Community Deployment
-Our application aims to address the prevalence of harassment and assault through providing means of protection and prevention for victims in order to limit the harm that affects them. A study by UN Women found that 99.3% of women in Egypt had experienced sexual harassment, while a study conducted by The Global Economy found that assualt and battery crimes have experienced a 53.6% peak in recent years. Therefore indicating a profound community issue that needs to be addressed. 
-The system acts as a personal bodyguard that the user can call on in threatening situations. The central feature of the app is a button that the user can press on while walking near dangerous individuals, and when released it automatically calls the police, sends the user’s live location to their emergency contact, along with other protective measures selected by the user beforehand. 
+Our application aims to address the prevalence of harassment and assault through providing means of protection and prevention for victims in order to limit the harm that affects them.The system acts as a personal bodyguard that the user can call on in threatening situations. The central feature of the app is a button that the user can press on while walking near dangerous individuals, and when released it automatically calls the police, sends the user’s live location to their emergency contact, along with other protective measures selected by the user beforehand. 
 
 1.2 Application Features
 When Emergency button is pressed and released, the applications can perform a subset of the following actions based on the user’s preferences:
-      -Call the police/local authorities
-      -Send the user's live location to the trusted contacts list.
-      -Send a customised message to the trusted contacts list.
-      -Set off a loud 120 dB alarm to alert people nearby & scare the attacker(s).
+      -Call the police/local authorities, 
+      -Send the user's live location to the trusted contacts list, 
+      -Send a customised message to the trusted contacts list, 
+      -Set off a loud 120 dB alarm to alert people nearby & scare the attacker(s), 
       -Record audio/video footage.
+      
 		*All of the above can be switched on/off by the user.
     
 2. SYSTEM OVERVIEW
@@ -46,10 +46,12 @@ Service providers would be the Phone app for calling the police, Whatsapp for se
     -User information 
     -Settings 
     -Profile Edit
+    
   View
     -User interface for all activities
     -User input design
     -Button display & interactions
+    
   Control
     -Updating the user info 
     -Initiating any of the application features when the emergency button is released.
