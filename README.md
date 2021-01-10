@@ -13,10 +13,13 @@ Steven Roseik		900171807
 
 
 1. PROJECT OVERVIEW
+
 1.1 Design Rationale & Community Deployment
+
 Our application aims to address the prevalence of harassment and assault through providing means of protection and prevention for victims in order to limit the harm that affects them.The system acts as a personal bodyguard that the user can call on in threatening situations. The central feature of the app is a button that the user can press on while walking near dangerous individuals, and when released it automatically calls the police, sends the user’s live location to their emergency contact, along with other protective measures selected by the user beforehand. 
 
 1.2 Application Features
+
 When Emergency button is pressed and released, the applications can perform a subset of the following actions based on the user’s preferences:
       -Call the police/local authorities, 
       -Send the user's live location to the trusted contacts list, 
@@ -27,7 +30,9 @@ When Emergency button is pressed and released, the applications can perform a su
 		*All of the above can be switched on/off by the user.
     
 2. SYSTEM OVERVIEW
+
 2.1 Main Activities
+
   -Login Activity:
       Users can enter their credentials to login into an existing account or create a new one.
   -User Information Activity:
@@ -42,6 +47,7 @@ When Emergency button is pressed and released, the applications can perform a su
 Service providers would be the Phone app for calling the police, Whatsapp for sending the user’s live locations to emergency contacts, Panik or Attack Alarm SMS  for the loud alarm siren, the Camera and Voice memo apps for recording, and HarassMap for the harassment hotspot mapping service.
 
 2.2 MVC Model
+
   Model:
     -User information 
     -Settings 
@@ -57,5 +63,6 @@ Service providers would be the Phone app for calling the police, Whatsapp for se
     -Initiating any of the application features when the emergency button is released.
     
 Resources
+
 [1] “Gender-Based Violence in Egypt.” UNFPA Egypt, 14 July 2020, https://egypt.unfpa.org/en/node/22540  
 [2] “Egypt Theft Rate - Data, Chart.” TheGlobalEconomy.com, www.theglobaleconomy.com/Egypt/theft/.  
