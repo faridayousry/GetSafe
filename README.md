@@ -32,20 +32,25 @@ When Emergency button is pressed and released, the applications can perform a su
       
       *Record audio/video footage.
       
-		All of the above can be switched on/off by the user.
-    
+All of the above can be switched on/off by the user.
+
+
 2. SYSTEM OVERVIEW
 
 2.1 Main Activities
 
   -Login Activity:
       Users can enter their credentials to login into an existing account or create a new one.
+      
   -User Information Activity:
       Users can enter their personal information such as emergency contact information to be used in case of emergency.
+      
   -Emergency Activity:
-      Where the user can deploy the emergency button which will trigger the list of services, such as calling the police. .
+      Where the user can deploy the emergency button which will trigger the list of services, such as calling the police. 
+      
   -Settings Activity:
       Will have a list of options through which the user can edit his/her profile, manage settings for emergency triggers(live location, records), and edit the list of trusted       emergency contacts.
+      
   -HarassMap Activity:
       Will provide hot spots on a map for where there happens to be a lot of harassment. This will be provided through the HarassMap service providing application.
 
@@ -54,17 +59,25 @@ Service providers would be the Phone app for calling the police, Whatsapp for se
 2.2 MVC Model
 
   Model:
+  
     -User information 
+    
     -Settings 
+    
     -Profile Edit
     
   View
+  
     -User interface for all activities
+    
     -User input design
+    
     -Button display & interactions
     
   Control
+  
     -Updating the user info 
+    
     -Initiating any of the application features when the emergency button is released.
     
 Resources
