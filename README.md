@@ -9,7 +9,8 @@ Dr.Mohamed Shalan
 Initial Project Proposal 
 
 
-GetSafe®
+  GetSafe®
+  
 
 
 Farida T. Yousry	900171942
@@ -18,7 +19,9 @@ Bassel Shabana	900162270
 
 Khalid  Mohamed	900153041
 
-Steven Roseik		900171807
+ Steven Roseik		900171807
+
+
 
 
 
@@ -46,9 +49,10 @@ When Emergency button is pressed and released, the applications can perform a su
 *All of the above can be switched on/off by the user.
 
 
+ 
 2. SYSTEM OVERVIEW
 
-2.1 Main Activities
+ 2.1 Main Activities
 
   -Login Activity:
   
@@ -64,11 +68,12 @@ When Emergency button is pressed and released, the applications can perform a su
       
   -Settings Activity:
   
-      Will have a list of options through which the user can edit his/her profile, manage settings for emergency triggers(live location, records), and edit the list of trusted       emergency contacts.
+      Will have a list of options through which the user can edit his/her profile, manage settings for emergency triggers(live location, records), and edit the list of trusted emergency contacts.
       
   -HarassMap Activity:
   
-      Will provide hot spots on a map for where there happens to be a lot of harassment. This will be provided through the HarassMap service providing application.
+      Will provide hot spots on a map for where there happens to be a lot of harassment. This will be provided through 
+      the HarassMap service providing application.
 
 
 Service providers would be the Phone app for calling the police, Whatsapp for sending the user’s live locations to emergency contacts, Panik or Attack Alarm SMS  for the loud alarm siren, the Camera and Voice memo apps for recording, and HarassMap for the harassment hotspot mapping service.
@@ -97,8 +102,3 @@ Service providers would be the Phone app for calling the police, Whatsapp for se
     -Updating the user info 
     
     -Initiating any of the application features when the emergency button is released.
-    
-Resources
-
-[1] “Gender-Based Violence in Egypt.” UNFPA Egypt, 14 July 2020, https://egypt.unfpa.org/en/node/22540  
-[2] “Egypt Theft Rate - Data, Chart.” TheGlobalEconomy.com, www.theglobaleconomy.com/Egypt/theft/.  
