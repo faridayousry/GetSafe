@@ -1,5 +1,5 @@
 // We now import the connection object we exported in db.js.
-const db = require("../controllers/db.js");
+const db = require("../controllers/db");
 
 // More libraries…
 const express = require("express");
@@ -75,31 +75,14 @@ router.get("/countrycodes", function (req, res) {
         if (err) {
             res.send(err);
         } else {
-            for (let i = 0; i < result.length; i++) {
-                // You can do some processing on the data
-                result[i]["name_length"] = result[i].length;
-            }
-            return res.send(result);
+            let myResult = {
+                "result": result,
+                "rows": result.length
+            };
+            return res.send(myResult);
         }
     });
 });
-
-// router.get("/sendSMS", function(req, res) {
-//     q = url.parse(req.url, true).query;
-//     var sql = "INSERT INTO smsQ (phone, body) VALUES (";
-//     sql = sql +q.phone+", "+q.message+")";
-//     db.query(sql, function(err, result) {
-//         if (err) throw err;
-//         console.log("1 record inserted");
-//         res.end("OK");
-//     });
-    
-// });
-// router.listen(3000, function() {
-//     console.log("Example app listening on port 3000");
-// });
-
-
 
 // Export the created router
 module.exports = router;
